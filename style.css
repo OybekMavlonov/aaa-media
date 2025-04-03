@@ -73,7 +73,8 @@ img {
 
 .phone {
   color: black;
-  font-size: 36px;
+  font-size: 34px;
+  margin: 8px 0;
 }
 
 .text-center {
