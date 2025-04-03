@@ -74,7 +74,7 @@ img {
 
 .phone {
   color: black;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .text-center {
@@ -107,6 +107,7 @@ p {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  margin-bottom: 10px;
 }
 
 h4 {
